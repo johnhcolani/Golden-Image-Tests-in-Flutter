@@ -1,17 +1,31 @@
-# golden_test_counter
+# Flutter Golden Image Testing Project
 
-A new Flutter project.
+This repository showcases a Flutter project that demonstrates the implementation of Golden Image Testing. Golden image tests are a crucial tool for ensuring the visual consistency of your Flutter application's UI across different versions.
 
-## Getting Started
+The project includes a simple login screen with custom UI elements, and the associated tests capture snapshots (golden images) to detect unintended changes in the UI. By using golden image tests, you can safeguard your app's visual integrity and catch UI regressions early in the development process.
 
-This project is a starting point for a Flutter application.
+# Features
+## Custom Login Screen: 
+A clean and simple login screen built with Flutter, featuring custom clipping and layout.
+## Golden Image Testing: 
+Demonstrates how to implement golden image testing in Flutter to maintain UI consistency.
+## Automated UI Testing: 
+Ensures that the app’s UI does not change unexpectedly during development.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Getting Started
+To get started with this project, clone the repository and follow the instructions below.
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/df9c32fc-330b-49bd-9686-3269a328aa12" alt="iOS Screenshot" width="300"/>
+    <p><strong>iOS</strong></p>
+  </div>
+  <div style="text-align: center; margin-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/93cf5cf4-eb0e-4b70-aa77-7225651e4a7c" alt="iOS Screenshot" width="300"/>
+    <p><strong>iOS</strong></p>
+  </div>
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
 # Golden-Image-Tests-in-Flutter
+
